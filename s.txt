@@ -1,4 +1,2 @@
-{
-    "Synx94": true,
-    "username2": false
-}
+Synx94 true,
+Yourmom false
