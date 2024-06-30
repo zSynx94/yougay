@@ -1,7 +1,7 @@
 {
   "Synx94": {
     "banned": false,
-    "token.date": "2024-06-30",
+    "token-date": "2024-06-30",
     "registration.date": "2024-06-30"
   },
   "usuario2": {
