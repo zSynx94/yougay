@@ -1,13 +1,14 @@
 {
   "Synx94": {
-    "banned": true,
-    "fecha": "2024-06-30"
+    "banned": false,
+    "reg date": "2024-06-30"
   },
   "usuario2": {
-    "banned": false
+    "banned": false,
+    "reg date": "2024-06-02"
   },
   "usuario3": {
     "banned": true,
-    "fecha": "2024-06-25"
+    "reg date": "2024-06-25"
   }
 }
