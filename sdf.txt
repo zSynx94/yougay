@@ -1,4 +1,0 @@
-{
-    "Synx94": true,
-    "username2": false
-}

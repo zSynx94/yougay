@@ -1,0 +1,13 @@
+{
+  "Synx94": {
+    "banned": true,
+    "fecha": "2024-06-30"
+  },
+  "usuario2": {
+    "banned": false
+  },
+  "usuario3": {
+    "banned": true,
+    "fecha": "2024-06-25"
+  }
+}
