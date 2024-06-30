@@ -1,2 +1,4 @@
-Synx94 true,
-Yourmom false
+{
+    "Synx94": true,
+    "username2": false
+}
