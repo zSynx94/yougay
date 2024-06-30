@@ -4,12 +4,12 @@
     "token-date": "2024-06-30",
     "registration-date": "2024-06-30"
   },
-  "usuario2": {
+  "user2": {
     "banned": false,
     "token-date": "2024-06-02",
     "registration-date": "2024-06-30"
   },
-  "usuario3": {
+  "user3": {
     "banned": true,
     "token-date": "2024-06-25",
     "registration-date": "2024-06-30"
