@@ -4,8 +4,9 @@
     "token-date": "2024-06-30",
     "registration-date": "2024-06-30"
   },
-  "user2": {
-    "banned": false,
+  "FADE20B986BD3FA33D1E64788193EA1F525A35CB45C1F92DAD7EF408009BB9DB": {
+    "name": "Synx94",
+    "password": "228",
     "token-date": "2024-06-02",
     "registration-date": "2024-06-30"
   },
