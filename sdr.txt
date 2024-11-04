@@ -1,9 +1,4 @@
 {
-  "Synx94": {
-    "banned": false,
-    "token-date": "2024-06-30",
-    "registration-date": "2024-06-30"
-  },
   "FADE20B986BD3FA33D1E64788193EA1F525A35CB45C1F92DAD7EF408009BB9DB": {
     "name": "Synx94",
     "password": "228",
@@ -11,10 +6,5 @@
     "token-date": "2024-06-02",
     "registration-date": "2024-06-30",
     "token": "QfJF5nmtHvF5SSZD1gQLw/cIccRZSRoz20oNi7bJfrHC7pjdoqSOoeQ8ajKKlH+x7georG0963WCdd4LqpH8qy/80YniFOz+t8G696C50kgkqyki6WFqVg=="
-  },
-  "user3": {
-    "banned": true,
-    "token-date": "2024-06-25",
-    "registration-date": "2024-06-30"
   }
 }
